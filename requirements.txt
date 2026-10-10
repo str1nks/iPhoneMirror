@@ -1,0 +1,3 @@
+PyQt6
+PyQt6-Fluent-Widgets
+PyQt6-Frameless-Window
